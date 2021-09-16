@@ -436,6 +436,9 @@ footer ul{
     .header-container{
         padding: 15px;
     }
+    .my-img img{
+        width: 100%;
+    }
     h1{
         text-align: center;
     }
@@ -564,6 +567,9 @@ footer ul{
 @media (max-width: 640px){
     .header-container{
         padding: 15px;
+    }
+    .my-img img{
+        width: 100%;
     }
     h1{
         text-align: center;
